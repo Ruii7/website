@@ -6,7 +6,7 @@ div{color:red}
 </style>
 <script src=prog1.js></script>
 </head>
-<body style=“margin:5px 5px 5px 5px”>
+<body style=“margin: 5px 5px 5px 5px”>
 <h1>Title of the Document/Book
 <p>This is the first paragraph
 <div>Specify area to apply a style sheet</div>
